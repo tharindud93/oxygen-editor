@@ -1,0 +1,645 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<section publication-segment="body-matter" role="Section" id="gmbpiah-7.5" page-wide="yes" level="2" legacy-id="gmbpiah-7.5">
+<!--<number>7.5</number>-->
+<heading>Maturity Assessment &amp; Process-based Auditing</heading>
+<section publication-segment="body-matter" role="Section" level="3" id="gmbpiah-7.5.1" page-wide="yes" legacy-id="gmbpiah-7.5.1">
+<!--<number>7.5.1</number>-->
+<heading>General</heading>
+<ol type="alphabetical">
+<li><p>The IOSA Maturity Assessment Model determines the degree to which an Airline's safety-relevant systems and programs are robust, suitable, and effective through a more structured and comprehensive evaluation system. The Maturity Assessment is a shift from the legacy compliance assessment that determines compliance with the standards but does not verify how advanced and/or effective an Airline is in implementing them.</p></li>
+<li><p>The assessment focuses on the SMS and its components as per the ICAO SMS Framework as well as other relevant management system components.</p></li>
+<li><p>While the focus of the Maturity Assessment its processes and components of the above- mentioned systems, relevant criteria are attached to individual ISARPs in order to stay within an established framework of documenting requirements and recommendations.</p></li>
+<li><p>The maturity level of each component (set of ISARPs) or process is calculated using a points scale, which is derived from the number of implemented maturity criteria for a given ISARP.</p></li>
+<li><p>The maturity levels are as follows:</p>
+<ol type="lower-roman">
+<li><p>Conformity (up to 2 points)</p></li>
+<li><p>Established (2.01-3 points)</p></li>
+<li><p>Mature (3.01-4 points)</p></li>
+<li><p>Leading (4.01 + 5 points)</p></li>
+</ol></li>
+</ol>
+</section>
+<section publication-segment="body-matter" role="Section" level="3" id="gmbpiah-7.5.2" page-wide="yes" legacy-id="gmbpiah-7.5.2">
+<!--<number>7.5.2</number>-->
+<heading>ISARP Maturity Assessment Tool</heading>
+<ol type="alphabetical">
+<li><p>Each ISARP to be audited as per the Maturity Assessment Model has a maturity assessment tool which defines additional requirements and components that should be in place to implement that specific requirement in an effective and mature manner.</p></li>
+<li><p>The following table depicts the general structure of the Maturity Assessment Tool. </p>
+<table id="gmbpiah-7.5.2-tbl1" frame="void" style="width: 100%;" width="100%" legacy-id="gmbpiah-7.5.2-tbl1">
+<colgroup>
+<col width="30%" align="left"/>
+<col width="70%" align="left"/>
+</colgroup>
+<tbody>
+<tr>
+<td style="border-top: 1px solid;border-bottom: 1px solid;" colspan="2" background-color="grey"><p><b>ORG 3.2.1</b> The Operator shall have a safety risk assessment and mitigation program that includes processes implemented and integrated throughout the organization to ensure:</p>
+<ol type="lower-roman">
+<li><p>Hazards are analyzed to determine corresponding safety risks to aircraft operations;</p></li>
+<li><p>Safety risks are assessed to determine the requirement for risk mitigation action(s);</p></li>
+<li><p>When required, risk mitigation actions are developed and implemented in operations.</p></li>
+</ol></td>
+</tr>
+<tr>
+<td style="border-top: 1px solid;" background-color="grey" valign="middle"><p><b>Documented</b></p>
+<p>(0-1)</p></td>
+<td background-color="grey"><p>Documentation complete</p>
+<p>Documentation mostly in place and accurate</p>
+<p>Documentation partially in place</p>
+<p>Basic documentation, main components missing</p>
+<p>No documentation in place</p></td>
+</tr>
+<tr>
+<td background-color="grey" valign="middle"><p><b>Implemented &amp; Suitable</b></p>
+<p>(1.01-2)</p></td>
+<td><p>Full implementation and suitability</p>
+<p>Mostly implemented and suitable</p>
+<p>Partially implemented and suitable</p>
+<p>Basic implementation, no suitability</p>
+<p>No implementation at all</p></td>
+</tr>
+<tr>
+<td background-color="grey" valign="middle"><p><b>Established</b></p>
+<p>(2.01-3)</p></td>
+<td>
+<ul type="bullet">
+<li><p>Established Criteria 1</p></li>
+<li><p>Established Criteria 2</p></li>
+<li><p>Established Criteria 3</p></li>
+</ul></td>
+</tr>
+<tr>
+<td background-color="grey" valign="middle"><p><b>Mature</b></p>
+<p>(3.01-4)</p></td>
+<td>
+<ul type="bullet">
+<li><p>Mature Criteria 1</p></li>
+<li><p>Mature Criteria 2</p></li>
+<li><p>Mature Criteria 3</p></li>
+</ul></td>
+</tr>
+<tr>
+<td background-color="grey" valign="middle"><p><b>Leading</b></p>
+<p>(4.01-5)</p></td>
+<td>
+<ul type="bullet">
+<li><p>Leading Criteria 1</p></li>
+<li><p>Leading Criteria 2</p></li>
+<li><p>Leading Criteria 3</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</li></ol>
+</section>
+<section publication-segment="body-matter" role="Section" level="3" id="gmbpiah-7.5.3" page-wide="yes" legacy-id="gmbpiah-7.5.3">
+<!--<number>7.5.3</number>-->
+<heading>Process-based Auditing Approach</heading>
+<section publication-segment="body-matter" role="Section" level="4" id="gmbpiah-7.5.3.1" page-wide="yes" legacy-id="gmbpiah-7.5.3.1" auto-seq="no">
+<number>7.5.3.1</number>
+<heading>General</heading>
+<ol type="alphabetical">
+<li><p>Risk-based IOSA outlines a transformation in the auditing mindset with the transition from standard-based auditing (elemental approach), which assesses individual requirements, to a process approach to auditing, which instead assesses an entire process or system.</p></li>
+<li><p>The International Organization for Standardization (ISO) defines auditing of a management system as auditing an organization's processes and their interactions in relation to one or more management system standard(s).<footref idref="gmbpiah-7.5.3-fn1"></footref> Likewise, IOSA process-based auditing evaluates the Airline's process/system interfaces and the continuity of its process.</p></li>
+<li><p>With the process-based auditing approach, the IOSA auditor follows a process as depicted in the following example figure. This methodology will provide valuable insights into an Airline's process continuity and maturity. During this assessment, the auditor will correspondingly evaluate the effectiveness of the processes using the Maturity Assessment approach.</p>
+<img src="gmbpiah-en-7.2.jpg" hsrc="gmbpiah-en-7.2.tif" style="lsrc:gmbpiah-en-7.2.jpg;hsrc:gmbpiah-en-7.2.tif;pagewide:no;"/></li>
+<li><p>This assessment can be seen as a comprehensive "Mandatory Observation" of the management system. The methodology will be primarily characterized by free/unrestricted interviews performed by the auditor. These interviews will focus on processes, interfaces and the follow-through of outcomes, rather than the prescriptive component requirements of ISARPs.</p></li>
+<li><p>IATA identified six processes to be audited within the process-based auditing approach. See further details in <a href="gmbpiah-7.5.3.4">Ch 7.5.3.4</a>.</p></li>
+<li><p>For an effective process-based auditing under Maturity Assessment, the IOSA auditor must be very familiar with the ISARP requirements within a process, as well as the maturity criteria that have been assigned to each ISARP directly or indirectly related to the process. It would not be efficient to perform this type of auditing with frequent reference to a checklist, The audit is conducted more as a conversation, rather than the verification of specific requirements.</p></li>
+<li><p>While the IOSA auditor cannot memorize every single maturity criterion, the vast majority of them should be known more or less, particularly their overall intention and relation to each other and to the ISARP requirement. At the conclusion of an interview, an auditor can use the relevant checklist without speaking to the interview partner to ensure nothing has been missed during the interview and to identify the need for any additional verification or follow-up.</p></li>
+</ol>
+</section>
+<section publication-segment="body-matter" role="Section" level="4" id="gmbpiah-7.5.3.2" page-wide="yes" legacy-id="gmbpiah-7.5.3.2" auto-seq="no">
+<number>7.5.3.2</number>
+<heading>Fundamentals for Auditing a Process</heading>
+<ol type="alphabetical">
+<li><p>The process approach to auditing focuses on reviewing the sequence and interaction of processes and their inputs and outputs. It analyzes the management system not just as if it were a set of documented procedures, but rather as an active system of processes that addresses risks and its applicable requirements.</p></li>
+<li><p>The main elements that a process-approach audit reviews include:</p>
+<ol type="lower-roman">
+<li><p>Process owners;</p></li>
+<li><p>Inputs and outputs of the process;</p></li>
+<li><p>Resources;</p></li>
+<li><p>Methods, procedures, instructions;</p></li>
+<li><p>Interfaces with other processes;</p></li>
+<li><p>Controls, measurements, metrics;</p></li>
+<li><p>Documents, records;</p></li>
+<li><p>Efficiencies, effectiveness.</p></li>
+</ol></li>
+<li><p>To take this approach, it is required to plan and perform the audits such that they are based on the processes that achieve the organization's objectives. The audit needs to be conducted through operational processes and across department boundaries.</p></li>
+<li><p>Audits conducted with a process approach provide much more information related to whether performance targets are being met. They identify opportunities for improving performance through a better control of processes and determine how processes can be more effective and efficient in meeting the applicable requirements. Some of the aspects that make this approach valuable are:</p>
+<ol type="lower-roman">
+<li><p>Focuses on results, not procedures;</p></li>
+<li><p>Evaluates the management system's effectiveness;</p></li>
+<li><p>Evaluates the outcomes of the system;</p></li>
+<li><p>Evaluates linkages between departments and processes;</p></li>
+<li><p>Follows the flow of work throughout the organization;</p></li>
+<li><p>Determines whether operations are under control and if controls are effective;</p></li>
+<li><p>Allows judgment on the significance of findings;</p></li>
+<li><p>Helps determine the depth of problems across the organization;</p></li>
+<li><p>Focuses on the benefits of correcting nonconformities related to improving organizational effectiveness.</p></li>
+</ol></li>
+<li><p>Organizations that wish to comply with a standard meet the requirements established in it. However, in some cases, just meeting these requirements does not necessarily add value to the organization. For an organization to be competitive and successful, its operational processes must work together in achieving its goals and objectives. A process-based audit assists organizations in assessing the effectiveness of these processes; it serves as a tool to identify weaknesses and opportunities to improve the connections between policy, requirements, performance, objectives and targets, which will ultimately contribute to an organization's overall success and maturity.</p></li>
+<li><p>Given the above summarized characteristics, process-based auditing is an ideal tool to be used for the Maturity Assessment. To evaluate how well an organization is performing and how mature it is, the audit techniques have to go beyond the purely technical compliance aspect.</p></li>
+</ol>
+</section>
+<section publication-segment="body-matter" role="Section" level="4" id="gmbpiah-7.5.3.3" page-wide="yes" legacy-id="gmbpiah-7.5.3.3" auto-seq="no">
+<number>7.5.3.3</number>
+<heading>Best Practices for Auditing a Process</heading>
+<ol type="alphabetical">
+<li><p>When auditing a process, the following strategies and rules should be observed to the extent possible:</p>
+<ol type="lower-roman">
+<li><p>The audit needs to be performed with frontline operational personnel.</p></li>
+<li><p>The audit needs to be conducted while operational activities take place. The auditor needs to oversee operational personnel performing duties and functions during their day-to-day job.</p></li>
+<li><p>Interviews need to take place at the employees' normal workplace, not in a meeting room.</p></li>
+<li><p>Multiple people should be involved in the interviews.</p></li>
+<li><p>Opportunities should be taken to have small discussions with various employees.</p></li>
+<li><p>A particular process needs to be followed through from start to finish meaning, the auditor may need to switch workstations and interview partners while following an entire process.</p></li>
+</ol></li>
+<li><p>To perform the process-based auditing in a consistent and meaningful manner, the following process should be applied to the extent possible:</p>
+<ol type="lower-roman">
+<li><p>Review/study related processes to be audited through the Airline's documentation prior to the onsite phase of the audit;</p></li>
+<li><p>Develop a general plan of action for each day, including which process(es) is(are) to be audited based on the detailed audit plan issued by IATA. <a href="gmbpiah-6">Refer to Ch 6 Audit Strategy and Game Plan</a>;</p></li>
+<li><p>Consult the Maturity Assessment Checklist available for the processes to be audited;</p></li>
+<li><p>Develop a more detailed plan and/or low-level process-based audit checklist for each day, including:</p>
+<ol type="numerical">
+<li><p>Processes/areas to be audited;</p></li>
+<li><p>Persons/functions to be audited/interviewed.</p></li>
+</ol></li>
+<li><p>Develop specific checklists for each day's interviews and take notes in one of the following:</p>
+<ol type="numerical">
+<li><p>Audit notetaking form provided by IATA;</p></li>
+<li><p>Process-based audit checklist;</p></li>
+<li><p>Auditor's own digital or printed notetaking method.</p></li>
+</ol></li>
+<li><p>Carry out the interview/audit based on the plan and using the low-level process-based audit checklist.</p></li>
+</ol></li>
+</ol>
+</section>
+<section publication-segment="body-matter" role="Section" level="4" id="gmbpiah-7.5.3.4" page-wide="yes" legacy-id="gmbpiah-7.5.3.4" auto-seq="no">
+<number>7.5.3.4</number>
+<heading>Processes and ISARPs to be Audited with the Process-based Auditing</heading>
+<ol type="alphabetical">
+<li><p>The following systems/processes are to be audited using the process-based auditing approach, which may be subject to change as per each ISM revision:</p>
+<table id="gmbpiah-7.5.3.4-tbl1" frame="box" style="width: 100%;" width="100%" legacy-id="gmbpiah-7.5.3.4-tbl1">
+<colgroup>
+<col width="20%" align="left"/>
+<col width="37%" align="left"/>
+<col width="43%" align="left"/>
+</colgroup>
+<thead>
+<tr>
+<th style="border: 2px solid;" background-color="blue"><p><em foreground-color="white"><b>Systems/Processes</b></em></p></th>
+<th style="border: 2px solid;" background-color="blue"><p><em foreground-color="white"><b>ISARPs, Directly Related</b></em></p></th>
+<th style="border: 2px solid;" background-color="blue"><p><em foreground-color="white"><b>ISARPs, Indirectly Related</b></em></p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid;" valign="middle"><p>Management and Control</p></td>
+<td style="border: 1px solid;"><p>ORG 1.1.1 Management System*</p>
+<p>ORG 1.2.1 Safety Policy*</p>
+<p>ORG 1.2.2 Safety Reporting Policy*</p>
+<p>ORG 1.3.1 Safety Authorities &amp; Resp.*</p>
+<p>ORG 1.4.1 Safety Objectives*</p>
+<p>ORG 4.1.1 Management Review*</p></td>
+<td style="border: 1px solid;">
+<p>ORG 1.1.2 Accountable Executive</p>
+<p>ORG 1.1.3 Postholders within the Management System</p>
+<p>ORG 1.1.4 SMS Manager</p>
+<p>ORG 1.4.2 Safety Perf. Monitoring*</p>
+<p>ORG 1.5.1 Resource Management</p></td>
+</tr>
+<tr>
+<td style="border: 1px solid;" valign="middle"><p>Safety Risk Management</p></td>
+<td style="border: 1px solid;"><p>ORG 3.1.1 Hazard Ident. Program*</p>
+<p>ORG 3.1.5 Change Management*</p>
+<p>ORG 3.1.2 Safety Reporting System*</p>
+<p>ORG 3.5.1 Acc. &amp; Inc. Investigation*</p>
+<p>ORG 3.2.1 Risk Assessment*</p></td>
+<td style="border: 1px solid;">
+<p>ORG 1.4.2 Safety Perf. Monitoring*</p>
+<p>ORG 2.4.3 Incident Data Exchange</p>
+<p>ORG 3.1.3 Conf. Safety Reporting System</p>
+<p>ORG 3.1.4 Analysis of Data from Observations of Flight Crew Perf.</p>
+<p>ORG 3.2.2 Safety Data Analysis for Predicting Future Risks</p>
+<p>ORG 3.3.1 FDA Program</p>
+<p>ORG 3.3.5 FDA Program Findings</p>
+<p>ORG 4.1.1 Management Review*</p>
+<p>ORG 4.1.2 Significant Issues</p>
+<p>ORG 4.3.1 Safety Training*</p></td>
+</tr>
+<tr>
+<td style="border: 1px solid;" valign="middle"><p>Safety Assurance Process</p></td>
+<td style="border: 1px solid;"><p>ORG 1.4.1 Safety Objectives*</p>
+<p>ORG 1.4.2 Safety Perf. Monitoring*</p>
+<p>ORG 2.1.1 Quality Assurance Program*</p>
+<p>ORG 3.1.5 Change Management*</p>
+<p>ORG 4.1.1 Management Review*</p></td>
+<td style="border: 1px solid;">
+<p>ORG 1.4.1 Safety Objectives*</p>
+<p>ORG 3.2.1 Risk Assessment*</p>
+<p>ORG 3.1.5 Change Management*</p>
+<p>ORG 4.1.2 Significant Issues</p></td>
+</tr>
+<tr>
+<td style="border: 1px solid;" valign="middle"><p>Safety Promotion Process</p></td>
+<td style="border: 1px solid;"><p>ORG 4.2.1 Safety Communication*</p>
+<p>ORG 4.3.1 Safety Training*</p></td>
+<td style="border: 1px solid;">
+<p>ORG 1.4.1 Safety Objectives*</p>
+<p>ORG 3.1.2 Safety Reporting System</p>
+<p>ORG 3.2.1 Risk Assessment*</p>
+<p>ORG 3.5.1 Acc. &amp; Incident Investigation</p></td>
+</tr>
+<tr>
+<td style="border: 1px solid;" valign="middle"><p>Quality Assurance &amp; Monitoring Process</p></td>
+<td style="border: 1px solid;"><p>ORG 2.1.1 Quality Assurance Program*</p>
+<p>ORG 2.1.4 Auditing ISARPs</p>
+<p>ORG 2.1.5 Audit Planning</p>
+<p>ORG 2.1.7 Process for Follow Up*</p>
+<p>ORG 2.1.9 Auditor Training &amp; Qual.*</p></td>
+<td style="border: 1px solid;">
+<p>ORG 2.1.6 Audit Scope Planning</p>
+<p>ORG 2.1.8 Auditor Independence</p>
+<p>ORG 3.1.1 Hazard Ident. Program*</p>
+<p>ORG 4.1.1 Management Review*</p>
+<p>ORG 4.2.1 Safety Promotion*</p>
+<p>ORG 4.3.1 Safety Training*</p></td>
+</tr>
+<tr>
+<td style="border: 1px solid;" valign="middle"><p>Outsourcing Management Process</p></td>
+<td style="border: 1px solid;"><p>ORG 1.6.1 Service Provider Selection Process*</p>
+<p>ORG 2.2.1 Monitoring External Service Providers*</p></td>
+<td style="border: 1px solid;">
+<p>ORG 1.4.2 Safety Perf. Monitoring*</p>
+<p>ORG 1.6.2 Agreement with Ex- ternal Service Providers</p>
+<p>ORG 2.2.2 Auditing Ext. Service Providers</p>
+<p>ORG 3.1.2 Safety Reporting System*</p>
+<p>ORG 3.2.1 Risk Assessment*</p>
+<p>ORG 3.5.1 Acc. &amp; Inc. Investigation*</p>
+<p>ORG 4.1.1 Management Review*</p></td>
+</tr>
+</tbody>
+</table></li>
+</ol>
+</section>
+</section>
+<section publication-segment="body-matter" role="Section" level="3" id="gmbpiah-7.5.4" page-wide="yes" legacy-id="gmbpiah-7.5.4">
+<!--<number>7.5.4</number>-->
+<heading>High-level Process-based Audit Checklist</heading>
+<section publication-segment="body-matter" role="Section" level="4" id="gmbpiah-7.5.4.1" page-wide="yes" legacy-id="gmbpiah-7.5.4.1" auto-seq="no">
+<number>7.5.4.1</number>
+<heading>General</heading>
+<ol type="alphabetical">
+<li><p>IATA has created high-level checklists called IATA Maturity Assessment Checklist for the use its auditors with regards to each process to be audited. General procedures to be followed during the Audit is described in this chapter.</p></li>
+<li><p>IATA's Maturity Assessment Checklist is available as a resource to this manual and it can also be used as a tool by Airlines to conduct internal maturity assessments.</p></li>
+<li><p>The checklist includes requirements excerpted from various directly or indirectly related ISARPs, Auditor Actions (AAs), and Maturity Assessment criteria derived from several ISARP Maturity Assessment tools. The main difference is how the criteria will be arranged and grouped. The main focus will be standard flows and interfaces between processes and requirements.</p></li>
+<li><p>The checklist is designed to follow a process, however, it is important to note that the detailed plan of auditing a process is within the responsibility and discretion of the Lead Auditor, meaning the order can be adjusted by the Lead Auditor.</p></li>
+<li><p>The checklist is customized by the Lead Auditor and the Audit Team as outlined in this chapter and includes the following sections as depicted in the below figure:</p>
+<ol type="lower-roman">
+<li><p>The Maturity Processes tab includes seven processes: Management &amp; Control, Risk Management, Safety Assurance, Safety Promotion, Quality Management, Outsourcing Management and Flight Data Analysis.</p></li>
+<li><p>Operational discipline tabs to include FLT, DSP, MNT, CAB, GRH &amp; CGO and FLT 2</p>
+<img src="gmbpiah-en-7.3.jpg" hsrc="gmbpiah-en-7.3.tif" style="lsrc:gmbpiah-en-7.3.jpg;hsrc:gmbpiah-en-7.3.tif;pagewide:no;"/>
+<p>Note: FLT typically assigned to two different auditors and are completed by both of them in coordination, whereas FLT2 it to be filled out only by the Auditor assigned for FLT Crew Training maturity assessment.</p></li>
+</ol></li>
+</ol>
+</section>
+<section publication-segment="body-matter" role="Section" level="4" id="gmbpiah-7.5.4.2" page-wide="yes" legacy-id="gmbpiah-7.5.4.2" auto-seq="no">
+<number>7.5.4.2</number>
+<heading>Maturity Processes</heading>
+<ol type="alphabetical">
+<li><p>Maturity Processes tab includes following pre-populated elements for each process to be audited and are only used by Lead Auditors.</p><ol type="lower-roman">
+<li><p><b>Subprocesses: </b>The Column B outlines the name of the subprocess that the standard, auditor action or maturity criteria belongs to.</p></li>
+<li><p><b>A reference to the relevant ISARP:</b> The column C provides a reference to the relevant standard or recommended practice.</p></li>
+<li><p><b>Standard / Auditor Action / Maturity Criteria Description: </b>The column D includes the relevant ISARP requirements, auditor actions or maturity criteria which are included in the scope of the process.</p></li>
+<li><p><b>Type of the above-mentioned description (Conformity, Maturity):</b> The column E is created to identify the type of above-mentioned items. The Lead Auditor can use this field to filter the checklist as Conformity, and Maturity as necessary.</p></li>
+<li><p><b>Level:</b> The Column F identified the level of the maturity criteria such as Established, Mature and Leading. For any requirement the field has N/A value.</p></li>
+<li><p><b>Other Auditor section for FLT, DSP, MNT, CAB, GRH, CGO, FLT 2: </b>The other auditor section identifies if other discipline auditors are required to audit the standard and/or maturity criteria or not. Lead Auditor is responsible to customize the section accordingly as described in <a href="gmbpiah-7.5.4.4">Ch 7.5.4.4</a>.</p>
+<ol type="numerical">
+<li><p>Any requirement/criteria identified as "Audit" will be audited by each discipline auditor.</p></li>
+<li><p>Any requirement/criteria identified as "If Assigned" will be assigned to discipline auditors if the Lead Auditor requires assistance for any discipline.</p></li>
+<li><p>Any requirement/criteria identified as "N/A" will not be audited.</p></li>
+<li><p>Lead Auditor can change the value Assigned as depicted in below figure, to assign a criterion to a discipline auditor.</p>
+<img src="gmbpiah-en-7.4.jpg" hsrc="gmbpiah-en-7.4.tif" style="lsrc:gmbpiah-en-7.4.jpg;hsrc:gmbpiah-en-7.4.tif;pagewide:no;"/></li>
+</ol></li>
+<li><p><b>Filtering menu for each process to be audited: </b>The filtering menu (slicer) helps the Lead Auditor to filter through different processes.</p>
+<img src="gmbpiah-en-7.5.jpg" hsrc="gmbpiah-en-7.5.tif" style="lsrc:gmbpiah-en-7.5.jpg;hsrc:gmbpiah-en-7.5.tif;pagewide:no;"/></li>
+</ol></li>
+<li><p>Each process-based audit checklist also includes the following empty sections and fields:</p>
+<ol type="lower-roman">
+<li><p><b>Notes for the Assessment / Notes for the Maturity Assessment Report:</b></p>
+<p>This section is intended for the use of the Lead Auditor in taking notes related to the results of their review/study of processes to be audited through Airline documentation. Lead Auditor can take notes relevant to each requirement/maturity criteria as applicable. Please see an example below. During the assessment, this section can be used for notetaking for the Maturity Assessment Report after previously taken notes are used.</p>
+<table id="gmbpiah-7.5.4.2-tbl1" frame="box" style="width: 100%;" width="100%" legacy-id="gmbpiah-7.5.4.2-tbl1">
+<colgroup>
+<col width="44%" align="left"/>
+<col width="56%" align="left"/>
+</colgroup>
+<thead>
+<tr>
+<th style="rowsep: 1;colsep: 1;border-left: 2px solid;border-right: 2px solid;border-top: 2px solid;border-bottom: 2px solid;" background-color="blue"><p><em foreground-color="white"><b>Requirement / Maturity Criteria</b></em></p></th>
+<th style="rowsep: 1;colsep: 1;border-right: 2px solid;border-top: 2px solid;border-bottom: 2px solid;" background-color="blue"><p><em foreground-color="white"><b>Low Level Checklist - Airline Process &amp; Notes</b></em></p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid;"><p>Incident investigations is conducted due to information obtained from the FDA.</p></td>
+<td style="border: 1px solid;"><p>Airline documentation outlines an event investigation process. Review investigation records and interview with an investigator if possible.</p></td>
+</tr>
+<tr>
+<td style="border: 1px solid;"><p>Reporting of safety issues is non-punitive and are encouraged and rewarded.</p></td>
+<td style="border: 1px solid;"><p>Airline documentation does not clearly identify rewards, interview with people from different levels of the organization.</p></td>
+</tr>
+</tbody>
+</table></li>
+<li><p><b>Assessment result sections for other discipline auditors</b></p>
+<p>Each section is linked to the assessments conducted by other discipline auditors to include FLT, DSP, MNT, CAB, GRH, and CGO. Lead Auditor sees either Yes, No or Not observed options in these fields. Lead Auditor uses ORG section for own assessment recording and Overall assessment column is the field where the final assessment to be recorded as per systemic assessment approach by the Lead Auditor.</p>
+<img src="gmbpiah-en-7.6.jpg" hsrc="gmbpiah-en-7.6.tif" style="lsrc:gmbpiah-en-7.6.jpg;hsrc:gmbpiah-en-7.6.tif;pagewide:no;"/>
+<p>In the assessment result section, any notes reported by other discipline auditors can also be checked by the Lead Auditor as follows:</p>
+<ol type="numerical">
+<li><p>Click on the plus button on the column;</p>
+<img src="gmbpiah-en-7.7.jpg" hsrc="gmbpiah-en-7.7.tif" style="lsrc:gmbpiah-en-7.7.jpg;hsrc:gmbpiah-en-7.7.tif;pagewide:no;"/></li>
+<li><p>The notes will open to the right side of the relevant column:</p>
+<img src="gmbpiah-en-7.8.jpg" hsrc="gmbpiah-en-7.8.tif" style="lsrc:gmbpiah-en-7.8.jpg;hsrc:gmbpiah-en-7.8.tif;pagewide:no;"/></li>
+</ol></li>
+</ol></li>
+</ol>
+</section>
+<section publication-segment="body-matter" role="Section" level="4" id="gmbpiah-7.5.4.3" page-wide="yes" legacy-id="gmbpiah-7.5.4.3" auto-seq="no">
+<number>7.5.4.3</number>
+<heading>Operational discipline tabs (FLT, FLT2, DSP, MNT, CAB, GRH &amp; CGO)</heading>
+<ol type="alphabetical">
+<li><p>Operational discipline tabs will be used for other auditors to conduct conformity and maturity assessment on behalf of the Lead Auditor.</p></li>
+<li><p>The tabs include a structure similar to Maturity Processes one as presented in the following figure:</p>
+<img src="gmbpiah-en-7.9.jpg" hsrc="gmbpiah-en-7.9.tif" style="lsrc:gmbpiah-en-7.9.jpg;hsrc:gmbpiah-en-7.9.tif;pagewide:no;"/></li>
+<li><p>Auditors audit any conformity and/or maturity criteria identified as "Audit/Assigned".</p></li>
+</ol>
+</section>
+<section publication-segment="body-matter" role="Section" level="4" id="gmbpiah-7.5.4.4" page-wide="yes" legacy-id="gmbpiah-7.5.4.4" auto-seq="no">
+<number>7.5.4.4</number>
+<heading>Assigning a requirement/criterion in the checklist</heading>
+<ol type="alphabetical">
+<li><p>As mentioned in above <a href="gmbpiah-7.5.4.2">Ch 7.5.4.2 (a)(v),</a> the Lead Auditor can assign any requirement/criteria identified as "If Assigned" to the discipline auditors during the remote or face to face Team Meetings.</p></li>
+<li><p>In order to assign the maturity criteria, the Lead Auditor can simply change the If Assigned to Assigned.</p>
+<img src="gmbpiah-en-7.10.jpg" hsrc="gmbpiah-en-7.10.tif" style="lsrc:gmbpiah-en-7.10.jpg;hsrc:gmbpiah-en-7.10.tif;pagewide:no;"/></li>
+<li><p>Accordingly, the relevant discipline auditor tab automatically will be changed from "If Assigned" option to the "Assigned".</p></li>
+<li><p>In the following example we can simulate the recommended best practice.</p>
+<ol type="lower-roman">
+<li><p>The Lead Auditor does not have any experience in the MNT environment and decides to assign the Hazard Identification subprocess to the MNT Auditor.</p></li>
+<li><p>The Lead Auditor selects the Risk Management option from the filtering menu.</p></li>
+<li><p>The Lead Auditor changes "If Assigned" option to "Assigned" for MNT Auditor in the Other Auditor section for the "Hazard Identification" related criteria.</p></li>
+</ol></li>
+</ol>
+</section>
+</section>
+<section publication-segment="body-matter" role="Section" level="3" id="gmbpiah-7.5.5" page-wide="yes" legacy-id="gmbpiah-7.5.5">
+<!--<number>7.5.5</number>-->
+<heading>Verification of Maturity Assessment Criteria</heading>
+<section publication-segment="body-matter" role="Section" level="4" id="gmbpiah-7.5.5.1" page-wide="yes" legacy-id="gmbpiah-7.5.5.1" auto-seq="no">
+<number>7.5.5.1</number>
+<heading>General</heading>
+<ol type="alphabetical">
+<li><p>Maturity Assessment criteria are not audited as per the elemental approach, such as reviewing each criterion back-to-back and individually. On the contrary, each criterion needs to be considered when auditing the relevant process as per the process-based auditing approach.</p></li>
+<li><p>The verification needs to be accomplished in the context of a conversation with the interview partner and during the verification of evidence. To the extent possible, the auditor should refrain from directly asking for the implementation of these criteria. Instead, the conversation should be managed such that the verification is accomplished by asking one or multiple indirect questions related to the criterion or set of aggregated criteria that will ultimately confirm whether they are implemented or not.</p></li>
+</ol>
+</section>
+<section publication-segment="body-matter" role="Section" level="4" id="gmbpiah-7.5.5.2" page-wide="yes" legacy-id="gmbpiah-7.5.5.2" auto-seq="no">
+<number>7.5.5.2</number>
+<heading>Maturity Criterion Types and Levels</heading>
+<ol type="alphabetical">
+<li><p>There are different type of maturity criteria and certain criteria requires the professional judgement of the Lead Auditor. </p>
+<table id="gmbpiah-7.5.5.2-tbl1" frame="box" style="width: 100%;" width="100%" legacy-id="gmbpiah-7.5.5.2-tbl1">
+<colgroup>
+<col width="21%" align="left"/>
+<col width="28%" align="left"/>
+<col width="51%" align="left"/>
+</colgroup>
+<thead>
+<tr>
+<th style="border: 2px solid;" background-color="blue"><p><em foreground-color="white"><b>Criteria</b></em></p></th>
+<th style="border: 1px solid;" background-color="blue"><p><em foreground-color="white"><b>Type</b></em></p></th>
+<th style="rowsep: 1;colsep: 1;border-top: 2px solid;border-bottom: 2px solid;border-right: 2px solid;" background-color="blue"><p><em foreground-color="white"><b>Guidance</b></em></p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid;" background-color="grey"><p><b>Key components of the safety policy are linked to objectives.</b></p>
+<p>(Established)</p></td>
+<td style="rowsep: 1;colsep: 1;border-right: 1px solid;border-bottom: 1px solid;"><p>Objective Criteria</p></td>
+<td style="rowsep: 1;colsep: 1;border-right: 1px solid;border-bottom: 1px solid;"><p>Auditor reviews components of safety policy and if it links to all objectives of the Airline, it can be considered as implemented.</p></td>
+</tr>
+<tr>
+<td style="border: 1px solid;" background-color="grey"><p><b>All mitigating actions are practical and sustainable and consider human factors imitations where applicable.</b> (Mature)</p></td>
+<td style="rowsep: 1;colsep: 1;border-right: 1px solid;border-bottom: 1px solid;"><p>Professional Judgement Required</p></td>
+<td style="rowsep: 1;colsep: 1;border-right: 1px solid;border-bottom: 1px solid;"><p>Auditor reviews mitigating actions related to each operational discipline and apply professional judgment if all actions are practical and sustainable.</p></td>
+</tr>
+<tr>
+<td style="border: 1px solid;" background-color="grey"><p><b>The just culture policy is applied in a fair and consistent manner and staff trusts the safety reporting policy.</b> (Mature)</p></td>
+<td style="rowsep: 1;colsep: 1;border-right: 1px solid;border-bottom: 1px solid;"><p>Hybrid</p></td>
+<td style="rowsep: 1;colsep: 1;border-right: 1px solid;border-bottom: 1px solid;"><p>Auditor sees the evidence that just culture applied, and interviews conducted shows that all personal trust the policy. As this is not black and white, auditor will ask questions to understand if all operational personal feels that the just culture in place and in the end, a professional judgment is required.</p></td>
+</tr>
+</tbody>
+</table></li>
+<li><p>Especially for the Mature and Leading Criteria, maturity criteria need to be in place and implemented for a while. The following table shows practical examples related to this issue.</p>
+<table id="gmbpiah-7.5.5.2-tbl2" frame="box" style="width: 100%;" width="100%" legacy-id="gmbpiah-7.5.5.2-tbl2">
+<colgroup>
+<col width="42%" align="left"/>
+<col width="58%" align="left"/>
+</colgroup>
+<thead>
+<tr>
+<th style="rowsep: 1;colsep: 1;border-left: 2px solid;border-right: 2px solid;border-top: 2px solid;border-bottom: 2px solid;" background-color="blue"><p><em foreground-color="white"><b>Criteria</b></em></p></th>
+<th style="rowsep: 1;colsep: 1;border-right: 2px solid;border-top: 2px solid;border-bottom: 2px solid;" background-color="blue"><p><em foreground-color="white"><b>Guidance</b></em></p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid;" background-color="grey"><p><b>Operator shares systemic hazards with industry bodies/groups to facilitate the development of hazard identification.</b>(Leading)</p></td>
+<td style="rowsep: 1;colsep: 1;border-right: 1px solid;border-bottom: 1px solid;"><p>If Airline started sharing systemic hazard industry bodies/groups just before the audit, this cannot be considered as Leading as it is not being implemented for a while. Auditor needs to use their professional judgement</p></td>
+</tr>
+<tr>
+<td style="border: 1px solid;" background-color="grey"><p><b>A performance or evidence based recurrent training is performed at least annually.</b>(Leading)</p></td>
+<td style="rowsep: 1;colsep: 1;border-right: 1px solid;border-bottom: 1px solid;"><p>If Airline updated their process and introduced a performance/evidence-based training recently and the training is not conducted yet, this cannot be considered as Leading.</p></td>
+</tr>
+</tbody>
+</table></li>
+</ol>
+</section>
+<section publication-segment="body-matter" role="Section" level="4" id="gmbpiah-7.5.5.3" page-wide="yes" legacy-id="gmbpiah-7.5.5.3" auto-seq="no">
+<number>7.5.5.3</number>
+<heading>Systemic Assessment</heading>
+<ol type="alphabetical">
+<li><p>While determining the fulfilment of the Maturity Assessment criteria, the IOSA auditor applies systemic assessment principles. The fulfilment of criteria must represent the Airline's overall maturity status in all applicable scopes as exemplified in the following table:</p>
+<table id="gmbpiah-7.5.5.3-tbl1" frame="box" style="width: 100%;" width="100%" legacy-id="gmbpiah-7.5.5.3-tbl1">
+<colgroup>
+<col width="49%" align="left"/>
+<col width="51%" align="left"/>
+</colgroup>
+<thead>
+<tr>
+<th style="rowsep: 1;colsep: 1;border-left: 2px solid;border-right: 2px solid;border-top: 2px solid;border-bottom: 2px solid;" background-color="blue"><p><em foreground-color="white"><b>Maturity Assessment Criteria</b></em></p></th>
+<th style="rowsep: 1;colsep: 1;border-right: 2px solid;border-top: 2px solid;border-bottom: 2px solid;" background-color="blue"><p><em foreground-color="white"><b>Systemic Assessment</b></em></p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid;" valign="middle"><p>All employees know the main aspects and messages of the safety policy.</p></td>
+<td style="rowsep: 1;colsep: 1;border-right: 1px solid;border-bottom: 1px solid;" valign="middle"><p>All employees from each audit scope must know the main aspects and messages.</p>
+<p>This should be ensured by the ORG auditor or other scope auditors throughout the audit.</p></td>
+</tr>
+<tr>
+<td style="border: 1px solid;" valign="middle"><p>Persons performing root cause analysis are trained in the methodology</p></td>
+<td style="rowsep: 1;colsep: 1;border-right: 1px solid;border-bottom: 1px solid;" valign="middle"><p>All persons from each audit scope performing root cause analysis must be trained in the methodology.</p></td>
+</tr>
+<tr>
+<td style="border: 1px solid;" valign="middle"><p>Significant global and/or regional industry high- priority risks identified by the IATA Safety Issue Hub as applicable to the Airline are identified and managed effectively.</p></td>
+<td style="rowsep: 1;colsep: 1;border-right: 1px solid;border-bottom: 1px solid;" valign="middle"><p>All applicable risks listed in IATA Safety Issue Hub are identified and managed effectively.</p></td>
+</tr>
+</tbody>
+</table></li>
+</ol>
+</section>
+<section publication-segment="body-matter" role="Section" level="4" id="gmbpiah-7.5.5.4" page-wide="yes" legacy-id="gmbpiah-7.5.5.4" auto-seq="no">
+<number>7.5.5.4</number>
+<heading>Auditing on behalf of the ORG Auditor for the Maturity Assessment</heading>
+<ol type="alphabetical">
+<li><p>Each IOSA Auditor assists the Lead/ORG auditor in their respective scopes for the effective auditing of SMS related processes and provide consequent verification of the relevant Maturity Assessment criteria and if required ISARP requirements.</p></li>
+<li><p>Each Auditor briefly reviews SMS implementation in their respective scopes, including the safety reporting system, hazard identification program, risk management, safety assurance, etc. The depth of the review will be based on the lead/ORG auditor's task and responsibility assignments for each relevant scope auditor.</p></li>
+<li><p>Requirement and maturity criteria can be audited using facility observation, mandatory observation, interviews, records review etc. However, in general, an Auditor assesses the maturity criteria through interviews conducted with the personnel in every level of the organization. This simply means that safety related questions will be asked to each personnel interviewed. Please see examples how a requirement and/or maturity criteria can be audited.</p>
+<table id="gmbpiah-7.5.5.4-tbl1" frame="box" style="width: 100%;" width="100%" legacy-id="gmbpiah-7.5.5.4-tbl1">
+<colgroup>
+<col width="44%" align="left"/>
+<col width="56%" align="left"/>
+</colgroup>
+<thead>
+<tr>
+<th style="rowsep: 1;colsep: 1;border-top: 2px solid;border-bottom: 2px solid;border-left: 2px solid;border-right: 2px solid;" background-color="blue"><p><em foreground-color="white"><b>Requirement / Maturity Criteria</b></em></p></th>
+<th style="rowsep: 1;colsep: 1;border-top: 2px solid;border-bottom: 2px solid;border-right: 2px solid;" background-color="blue"><p><em foreground-color="white"><b>How to audit/assess</b></em></p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid;"><p>The safety policy is visible and accessible throughout the organization.</p></td>
+<td style="rowsep: 1;colsep: 1;border-right: 1px solid;border-bottom: 1px solid;"><p>Check if the policy is visible in any organization facility and/or digitally as applicable.</p>
+<p>Ask several operational personnel to access the safety policy.</p></td>
+</tr>
+<tr>
+<td style="border: 1px solid;"><p>People across the organisation are familiar with the policy and can describe their obligations in respect of the safety policy.</p></td>
+<td style="rowsep: 1;colsep: 1;border-right: 1px solid;border-bottom: 1px solid;"><p>Interview with personnel from every level of the organization and ask them to describe their obligations.</p></td>
+</tr>
+</tbody>
+</table></li>
+<li><p>Auditor fills out the checklist as follows and depicted in the below figure.</p>
+<ol type="lower-roman">
+<li><p>Auditor selects "Yes" if the requirement or criteria fulfilled in every level of the relevant operational discipline.</p></li>
+<li><p>Auditor selects "No" if the requirement or criteria is not fulfilled completely or fulfilled partially. It the assessment is not; Auditor must enter a comment in the "Notes for the Maturity Assessment Report" section.</p>
+<p>If partially fulfilled, should also mention that in the note section such as 'While management personnel can describe their obligations in respect of the safety, line personnel are unable to do so."</p>
+<p>If the assessment is "No", Note section is highlighted in red to ensure Auditor leaves a comment.</p></li>
+<li><p>Select "Not Observed" if the Auditor could not find time and/or opportunity to assess/audit the requirement or criteria.</p>
+<img src="gmbpiah-en-7.11.jpg" hsrc="gmbpiah-en-7.11.tif" style="lsrc:gmbpiah-en-7.11.jpg;hsrc:gmbpiah-en-7.11.tif;pagewide:no;"/></li>
+</ol></li>
+</ol>
+</section>
+</section>
+<section publication-segment="body-matter" role="Section" level="3" id="gmbpiah-7.5.6" page-wide="yes" legacy-id="gmbpiah-7.5.6">
+<!--<number>7.5.6</number>-->
+<heading>Auditing Issues Identified by IATA Safety Issue Hub</heading>
+<ol type="alphabetical">
+<li><p>Audit Team reviews the risk picture document provided by IATA in the Audit Briefing Package during the Audit Team meetings and identify risks related to relevant scopes under coordination of the Lead Auditor. While following guidance in the risk picture document, the Lead Auditor and IOSA auditor (if assigned) assess if the Airline has identified and is managing relevant risks properly. Information can be recorded in the Maturity Assessment Checklist, for the following maturity criteria for the use and consolidation of the Lead Auditor. <b>"Significant global and/or regional industry high priority risks (e.g. identified by IATA Global Safety Risk Management Framework/GSRMF as applicable to the Airline are identified and managed effectively."</b></p></li>
+<li><p>It is established whether the Airline has considered these risks as part of their management system. However, the Airline may have limited or no exposure to these risks due to the scope, nature and type of their operation.</p></li>
+<li><p>By sampling the Airlines risk register and reviewing the significant safety risks identified by the Airline, provided in their pre audit questionnaire. the IOSA auditor considers:</p>
+<ol type="lower-roman">
+<li><p>Has the organization considered their exposure to these worldwide and regional risks? (as part of Hazard Identification - ORG 3.1.1)</p></li>
+<li><p>If not, can they justify that they are not exposed to the risk(s)? Or will they consider adding them to their risk register? (ORG 3.1.1/3.2.1)</p></li>
+<li><p>Has a risk assessment been conducted utilizing their documented Safety Risk Management (SRM) process? (ORG 3.2.1)</p></li>
+<li><p>What mitigations/safety actions have been identified? What was the effect on the risk score? (ORG 3.2.1)</p></li>
+<li><p>Are the identified mitigations practical, robust and consider human performance limitations? (ORG 3.2.1)</p></li>
+</ol></li>
+<li><p>Lead Auditor and IOSA auditor if assigned is recommended to pick one of the identified worldwide or regional safety issues from the IATA Safety Issue Hub (SIH) risk picture as the sample risk to be used for auditing the process as depicted below. (E.g. If 'runway incursion is selected and the process should be followed for hazard identification, risk assessment, risk control &amp; mitigation etc.</p>
+<img src="gmbpiah-en-7.12.jpg" hsrc="gmbpiah-en-7.12.tif" style="lsrc:gmbpiah-en-7.12.jpg;hsrc:gmbpiah-en-7.12.tif;pagewide:no;"/></li>
+<li><p>For some of the risks contained in the auditor brief, IATA will have completed and published a generic risk assessment. In assessing the Airline's risk mitigations, the IOSA auditor may use this as guidance.</p></li>
+<li><p>The lead auditor uses the provided information as a note for Maturity Assessment Report summaries. Also, if the Airline is managing all risks appropriately, the relevant Maturity Assessment criteria (ORG 3.1.1, ORG 3.2.1, ORG 4.1.2) are selected as fulfilled.</p></li>
+</ol>
+</section>
+<section publication-segment="body-matter" role="Section" level="3" id="gmbpiah-7.5.7" page-wide="yes" legacy-id="gmbpiah-7.5.7">
+<!--<number>7.5.7</number>-->
+<heading>Suitability Assessment for Maturity related ISARPs</heading>
+<ol type="alphabetical">
+<li><p>Although not explicitly highlighted, the suitability aspect has always been part of the conformity assessment. Suitability is now required to achieve conformity with any ISARPs with the Maturity Assessment tool to strengthen the assessment. The auditor does not only ensure requirements are documented and implemented, but also ensures the implementation is suitable based on the size, nature and complexity of the Airline as well as the inherent risk in its activity.</p></li>
+<li><p>In the assessment tool under the Maturity Assessment, suitability considerations are defined for each ISARP. These criteria are used when conducting the basic conformity assessment.</p></li>
+<li><p>Suitability considerations are not meant to be verified one after the other. The criteria are simply meant to be used as considerations when making a conformity assessment. The criteria listed may not be the only considerations an Auditor will contemplate when making an assessment.</p></li>
+<li><p>The following table intends to provide further guidance and examples to assist IOSA Auditor in their professional judgment.</p>
+<table id="gmbpiah-7.5.7-tbl1" frame="box" style="width: 100%;" width="100%" legacy-id="gmbpiah-7.5.7-tbl1">
+<colgroup>
+<col width="26%" align="left"/>
+<col width="26%" align="left"/>
+<col width="48%" align="left"/>
+</colgroup>
+<thead>
+<tr>
+<th style="border: 2px solid;" background-color="blue"><p><em foreground-color="white"><b>ISARP Context</b></em></p></th>
+<th style="border: 2px solid;" background-color="blue"><p><em foreground-color="white"><b>Suitability Consideration </b></em></p></th>
+<th style="border: 2px solid;" background-color="blue"><p><em foreground-color="white"><b>Interpretation</b></em></p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid;" valign="middle"><p><b>Quality Assurance Program</b></p></td>
+<td style="border: 1px solid;" valign="middle"><p>Tools and systems used, and their availability as per the size and complexity of operations</p></td>
+<td style="border: 1px solid;" valign="middle"><p>Whether an audit is conducted on an Airline with two aircraft and a staff of 20, or an Airline with 200 aircraft and several hundred or thousand employees, this makes a difference in what type of tools should be used. If a complex Airline works with paper only, this would severely limit its capabilities in such an environment.</p></td>
+</tr>
+<tr>
+<td style="border: 1px solid;" valign="middle"><p><b>Quality Assurance Program</b></p></td>
+<td style="border: 1px solid;" valign="middle"><p>Available resources as per the size and complexity of operations</p></td>
+<td style="border: 1px solid;" valign="middle"><p>Again, based on the above scenario, having five auditors and one dedicated QA staff member may work for one Airline, but certainly not for another.</p></td>
+</tr>
+<tr>
+<td style="border: 1px solid;" valign="middle"><p><b>Process for setting performance indicators</b></p></td>
+<td style="border: 1px solid;" valign="middle"><p>Number of performance indicators based on size and complexity of the organization</p></td>
+<td style="border: 1px solid;" valign="middle"><p>If the Airline is Full-Service Carrier and has significantly low number of SPIs that cannot be used as a means to monitor safety performance in all Operational areas of the Airline, the Auditor can identify the implementation as not suitable.</p></td>
+</tr>
+<tr>
+<td style="border: 1px solid;" valign="middle"><p><b>Hazard identification program</b></p></td>
+<td style="border: 1px solid;" valign="middle"><p>Number of analyzed hazards based on size and complexity of operations</p></td>
+<td style="border: 1px solid;" valign="middle"><p>If the Airline is conducting dozens of daily EDTO flights and/or transporting hundreds of DG each day, and no or significantly few hazards are identified related to EDTO and DG, the Auditor can identify the implementation as not suitable.</p></td>
+</tr>
+</tbody>
+</table></li>
+<li><p>If the IOSA auditor assesses an ISARP with a Maturity Assessment tool as not suitable and accordingly as not implemented, the assessment is discussed and agreed explicitly with the Airline. Auditor should make this assessment if the Airline is significantly and evidently not suitable.</p></li>
+<li><p>Also, the nonconformity narrative should clearly identify why the implementation of processes and/or procedures are not suitable by referring to relevant evidence.</p></li>
+</ol>
+</section>
+<section publication-segment="body-matter" role="Section" level="3" id="gmbpiah-7.5.8" page-wide="yes" legacy-id="gmbpiah-7.5.8">
+<!--<number>7.5.8</number>-->
+<heading>Process-based Auditing for Other Auditors</heading>
+<ol type="alphabetical">
+<li><p>Process-based auditing is the main auditing technique used for Maturity Assessment; however, each IOSA auditor also uses every opportunity to apply the process-based auditing approach while auditing ISARPs in their respective scopes. Please refer to <a href="gmbpiah-3.2.4.2">Ch 3.2.4.2 for Process Analysis Method.</a></p></li>
+<li><p>IOSA auditors group two or more ISARPs under relevant processes and focus on the process rather than auditing ISARPs one by one in the ISM order.</p></li>
+<li><p>Refer to Process-Based Auditing Approach and basic fundamental techniques to be used in <a href="gmbpiah-7.5.3">Ch 7.5.3</a>.</p></li>
+</ol>
+</section>
+<section publication-segment="body-matter" role="Section" level="3" id="gmbpiah-7.5.9" page-wide="yes" legacy-id="gmbpiah-7.5.9">
+<!--<number>7.5.9</number>-->
+<heading>Internal Maturity Assessment for Airlines</heading>
+<ol type="alphabetical">
+<li><p>If an Airline decides to conduct an internal maturity assessment, Airline should first determine which processes to be include in the internal maturity assessment. The straightforward approach would be commencing such an activity through IOSA Risk-based audit processes.</p></li>
+<li><p>Within IOSA Program, in total nine (9) processes are audited under the maturity assessment concept.</p>
+<ol type="lower-roman">
+<li><p>Management &amp; Control</p></li>
+<li><p>Risk Management</p></li>
+<li><p>Safety Assurance</p></li>
+<li><p>Safety Promotion</p></li>
+<li><p>Quality Management</p></li>
+<li><p>Outsourcing Management</p></li>
+<li><p>Flight Data Analysis</p></li>
+<li><p>Flight Crew Training</p></li>
+<li><p>Fatigue Risk Management</p></li>
+</ol></li>
+<li><p>Airlines should use the maturity criteria published by IATA in IOSA Standards Manual - RBI document and create a specific tool to use during maturity assessments similar to IATA's Maturity Assessment Checklist which also includes the maturity assessment criteria which are specially designed to be audited under a process-based auditing approach. The above procedures in <a href="gmbpiah-7.5.3">Ch 7.5.3</a> and <a href="gmbpiah-7.5.4">Ch 7.5.4</a> outlines the use of IATA tool in detail.</p></li>
+<li><p>As the processes, maturity criteria and relevant tools are available, an Airline may consider using the methodology, however, qualification and skills of an internal auditor is critical for success of such an internal assessment. Airlines should consider investing into their internal auditor to ensure they can conduct such an assessment successfully. Aside from operational experience, an auditor to be assigned for the maturity assessment must be trained and experience in Safety Management System.</p></li>
+<li><p>Likewise, an Airline may identify further processes to be audited under a maturity assessment concept such as Operational Control System, Cabin Crew Training etc. For such a case, Airlines may identify first the maturity criteria for each process. This may be achieved using a process gap analysis as identified in Ch 3.2.4 Preparation for Process-based Auditing. The methodology allows process factors, characteristics for each subprocess of a selected process. Airlines may identify maturity criteria for each process characteristic. Please see below example.</p>
+<img src="gmbpiah-en-7.13.jpg" hsrc="gmbpiah-en-7.13.tif" style="lsrc:gmbpiah-en-7.13.jpg;hsrc:gmbpiah-en-7.13.tif;pagewide:no;"/></li>
+</ol>
+</section>
+<footnotes>
+<footnote id="gmbpiah-7.5.3-fn1" callout="(3)" legacy-id="gmbpiah-7.5.3-fn1"><p>ISO 19011:2018(E) Guidelines for auditing management systems, A.2</p></footnote>
+</footnotes>
+</section>
